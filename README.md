@@ -5,8 +5,14 @@ About Project:
 
 This game was the final project for my game development class. The project was a group project and each member was assigned a different task. My task was to desing,create and spawn in different powerups using c# scripts. I was also responsible for adding powerupt scripts to the player to allow the player to use the abilities of each powerup along with creating the prebuilt levels. I also assited the other team members in their tasks such as scripts player movement scripts, enemy prefab creations and enemy movement/power scripts.
 
+View Scripts and Materials:
+
+If you open the assets folder each part of the game will be stored in its own folder. Each folder will contain materials, scripts, prefabs and more.
+eg. Enemies folder will contain all materials,scripts and prefabs for all enemies.
+
 How To Run:
-Method 1.!!!You will need Unity 2020.1.4f1 to run using this method
+Method 1.
+!!!You will need Unity 2020.1.4f1 to run using this method
 
 Downloand Zip version of repository as such 
 
@@ -31,13 +37,8 @@ Once you have clicked on the locations tab you will need to navigate to the proj
 
 This will open the project in Unity and allow you to run/modify the game and also export it as an application.
 
-Method 2.!!!This method is mac only 
+Method 2.
+!!!This method is mac only 
 There is a mac only application version of the game added above called dungeon runner.app/Contents
-
-
-View Scripts and Materials:
-
-If you open the assets folder each part of the game will be stored in its own folder. Each folder will contain materials, scripts, prefabs and more.
-eg. Enemies folder will contain all materials,scripts and prefabs for all enemies.
 
 
