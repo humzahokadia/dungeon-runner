@@ -32,7 +32,7 @@ Once you have clicked on the locations tab you will need to navigate to the proj
 this will open the project in Unity and allow you to run/modify the game and also export it as an application
 
 method 2:!!!This method is mac only 
-There is a mac only application version of the game added above
+There is a mac only application version of the game added above called dungeon runner.app/Contents
 
 
 View Scripts and Materials:
