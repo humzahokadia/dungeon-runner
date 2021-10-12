@@ -11,7 +11,9 @@ If you open the assets folder each part of the game will be stored in its own fo
 eg. Enemies folder will contain all materials,scripts and prefabs for all enemies.
 
 How To Run:
+
 Method 1.
+
 !!!You will need Unity 2020.1.4f1 to run using this method
 
 Downloand Zip version of repository as such 
@@ -38,7 +40,9 @@ Once you have clicked on the locations tab you will need to navigate to the proj
 This will open the project in Unity and allow you to run/modify the game and also export it as an application.
 
 Method 2.
+
 !!!This method is mac only 
+
 There is a mac only application version of the game added above called dungeon runner.app/Contents
 
 
